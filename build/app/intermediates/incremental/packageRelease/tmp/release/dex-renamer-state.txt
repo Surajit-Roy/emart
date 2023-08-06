@@ -1,0 +1,4 @@
+#Sun Jul 23 11:08:01 IST 2023
+base.0=C\:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

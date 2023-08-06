@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\ic_call_answer_video.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer_video.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\ic_call_answer.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\ic_call_decline.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_decline.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\ic_call_answer_low.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer_low.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\ic_call_decline_low.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_decline_low.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\ic_call_answer_video_low.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-anydpi-v21\\ic_call_answer_video_low.xml"
+    }
+]

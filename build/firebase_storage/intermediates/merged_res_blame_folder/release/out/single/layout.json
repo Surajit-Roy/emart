@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]

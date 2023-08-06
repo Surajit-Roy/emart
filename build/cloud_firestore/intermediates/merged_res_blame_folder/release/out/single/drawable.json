@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\bc90221ba9f61a1228863d161086bbf0\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\cloud_firestore\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\9d291a8a48a63585d3d1f6a0358fb31d\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    }
+]

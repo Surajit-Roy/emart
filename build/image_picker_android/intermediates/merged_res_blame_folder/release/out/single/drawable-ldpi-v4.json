@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer_low.png",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_decline_low.png",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer_video.png",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer.png",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer_video_low.png",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_decline.png",
+        "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_decline.png"
+    }
+]

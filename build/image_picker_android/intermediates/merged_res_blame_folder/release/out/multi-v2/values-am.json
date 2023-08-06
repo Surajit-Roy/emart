@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,248,345,444,540,642,742",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "143,243,340,439,535,637,737,838"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Personal Data\\Flutter\\Flutter_E-Mart\\build\\image_picker_android\\intermediates\\merged_res\\release\\values-am\\values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KIIT\\.gradle\\caches\\transforms-3\\8cb030b0a964d9b7d35efd86d70937cd\\transformed\\core-1.10.1\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,248,345,444,540,642,742",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "143,243,340,439,535,637,737,838"
+                    }
+                }
+            ]
+        }
+    ]
+}
